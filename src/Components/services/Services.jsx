@@ -11,29 +11,29 @@ const Services = () => {
             <div className="container services__container">
                 <article className="service">
                     <div className="service__head">
-                        <h3>UI/UX Design</h3>
+                        <h3>Designing & Building Software</h3>
                     </div>
 
                     <ul className='service__list'>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Experience with software design and development in a test-driven environment.</p>
                         </li>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Ability to learn new languages and technologies.</p>
                         </li>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>BSc in Computer Science & Software Engineering.</p>
                         </li>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Experience with databases and Object-Relational Mapping frameworks.</p>
                         </li>
                     </ul>
                 </article>
-                {/* END OF UI/UX */}
+                {/* END OF DESIGN & BUILD */}
 
                 <article className="service">
                     <div className="service__head">
@@ -43,19 +43,19 @@ const Services = () => {
                     <ul className='service__list'>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Create and test applications for websites.</p>
                         </li>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Website and software application designing, building, and maintaining.</p>
                         </li>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Determining user needs by analyzing technical requirements.</p>
                         </li>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Developing test routines to ensure that test cases mimic external interfaces and address all browser and device types.</p>
                         </li>
                     </ul>
                 </article>
@@ -69,19 +69,19 @@ const Services = () => {
                     <ul className='service__list'>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Researching industry-related topics.</p>
                         </li>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Prepare well-structured drafts using digital publishing platforms.</p>
                         </li>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Promote content on social networks and monitor engagement.</p>
                         </li>
                         <li>
                             <BsCheckAll className='service__list-icon'/>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Hands-on experience with Content Management Systems.</p>
                         </li>
                     </ul>
                 </article>
